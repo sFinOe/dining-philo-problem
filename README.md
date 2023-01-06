@@ -41,7 +41,7 @@ Our solution to the Dining Philosophers problem uses mutex locks and condition v
 # Usage/Examples
 
 ```bash
-git clone git@github.com:sFinOe/dining-philo-problem.git
+git clone https://github.com/sFinOe/dining-philo-problem.git
 cd dining-philo-problem
 make && ./philo [Time_To_Die, Time_To_Eat, Time_To_Sleep]
 ```
