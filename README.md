@@ -32,7 +32,9 @@ Our solution to the Dining Philosophers problem uses mutex locks and condition v
 
 # Requirements
 - Linux, Macos, Windows
-- Clang, GCC (C compailer)# References
+- Clang, GCC (C compailer)
+
+# References
 
 - [What is Bash ? ](https://opensource.com/resources/what-bash)
 - [The Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) on Wikipedia
